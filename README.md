@@ -18,7 +18,7 @@ By analyzing job descriptions or email text, the system predicts whether a job o
 ---
 
 ## 🛠️ Tech Stack
-* **Frontend:** HTML, CSS, JavaScript, Tailwind CSS (CDN)
+* **Frontend:** HTML, CSS,Tailwind CSS (CDN)
 * **Backend:** Python, Flask
 * **Machine Learning:** Scikit-Learn, Pandas, NumPy
 * **Algorithm:** SGDClassifier (Support Vector Machine) with TF-IDF Vectorization
